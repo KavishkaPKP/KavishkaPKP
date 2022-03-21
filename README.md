@@ -95,4 +95,4 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="center">Github<a href="https://github.com/KavishkaPKP" target="_blank">Pasindu Kavishka</a></div>
