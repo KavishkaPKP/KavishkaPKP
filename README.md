@@ -1,4 +1,4 @@
-### **<div align="center">I'm Kavishka, a full-time full-stack Developer 👨‍💻  🚀</div>**  
+
   
 
 - Undergraduate at Sri Lanka Institute of Information Technology (SLIIT Malabe)🎓  
